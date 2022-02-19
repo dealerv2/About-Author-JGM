@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dealerv2
+- 👋 Hi, I’m @dealerv2 aka JGM in the Author's section of Version 2 of the bridge program Dealer
 - 👀 I’m interested in Duplicate Bridge Software
 - 🌱 
 - 💞️ I’m looking to collaborate on Bridge Simulation Studies
